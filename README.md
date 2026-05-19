@@ -39,7 +39,7 @@ A secure cloud server architecture using blockchain-based authentication with de
 
 ## 📫 Connect With Me
 - Linkedin: https://www.linkedin.com/in/spandana-kokkula-084a57281
-- GitHub: https://github.com/Kokkulaspandana/Kokkulaspandana/edit/main/README.md
+- GitHub: https://github.com/Kokkulaspandana/Kokkulaspandana
 
 ---
 
